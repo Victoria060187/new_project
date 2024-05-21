@@ -1,0 +1,22 @@
+.product-details-page {
+    border-top: rgba(0, 0, 0, 0.10) 1px solid;
+    padding-top: 20px;
+    /*max-width: 1250px;*/
+    margin: auto;
+
+    .product-breadcrumbs {
+        margin-bottom: 26px;
+    }
+
+    .products {
+        .container {
+            padding: 0;
+        }
+    }
+}
+
+.product-info-details {
+    display: flex;
+    gap: 40px;
+    margin-bottom: 80px;
+}
